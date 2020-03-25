@@ -10,7 +10,8 @@ Data collection and creation of a data set is first step towards training custom
 
 The structure of your drive folder should be as follows:
 ```
-    .
+.
+└── yolo    
     ├── backup
     ├── obj
     │   ├── 1.jpeg
